@@ -14,6 +14,6 @@
 		}
 	},
 	"dist": {
-		"script": "https://raw.githubusercontent.com/kotopiro/Revenge-Fonts-JP/refs/heads/main/index.js"
+		"script": "index.js"
 	}
 }
