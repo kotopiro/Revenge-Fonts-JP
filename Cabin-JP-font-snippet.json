@@ -1,0 +1,25 @@
+{
+    "spec": 1,
+    "name": "Cabin JP",
+    "previewText": "Cabin is a humanist sans inspired by Edward Johnston's and Eric Gill's typefaces, with a touch of modernism / 日本語・キリル文字・ギリシャ文字にも対応",
+    "main": {
+        "ABCGintoNord-ExtraBold": "https://raw.githubusercontent.com/kotopiro/Revenge-Fonts-JP/main/Cabin/Cabin-ExtraBold-JP.ttf",
+        "ggsans-Bold": "https://raw.githubusercontent.com/kotopiro/Revenge-Fonts-JP/main/Cabin/Cabin-Bold-JP.ttf",
+        "ggsans-BoldItalic": "https://raw.githubusercontent.com/kotopiro/Revenge-Fonts-JP/main/Cabin/Cabin-BoldItalic-JP.ttf",
+        "ggsans-ExtraBold": "https://raw.githubusercontent.com/kotopiro/Revenge-Fonts-JP/main/Cabin/Cabin-ExtraBold-JP.ttf",
+        "ggsans-ExtraBoldItalic": "https://raw.githubusercontent.com/kotopiro/Revenge-Fonts-JP/main/Cabin/Cabin-ExtraBoldItalic-JP.ttf",
+        "ggsans-Medium": "https://raw.githubusercontent.com/kotopiro/Revenge-Fonts-JP/main/Cabin/Cabin-Medium-JP.ttf",
+        "ggsans-MediumItalic": "https://raw.githubusercontent.com/kotopiro/Revenge-Fonts-JP/main/Cabin/Cabin-MediumItalic-JP.ttf",
+        "ggsans-Normal": "https://raw.githubusercontent.com/kotopiro/Revenge-Fonts-JP/main/Cabin/Cabin-Normal-JP.ttf",
+        "ggsans-NormalItalic": "https://raw.githubusercontent.com/kotopiro/Revenge-Fonts-JP/main/Cabin/Cabin-NormalItalic-JP.ttf",
+        "ggsans-Semibold": "https://raw.githubusercontent.com/kotopiro/Revenge-Fonts-JP/main/Cabin/Cabin-Semibold-JP.ttf",
+        "ggsans-SemiboldItalic": "https://raw.githubusercontent.com/kotopiro/Revenge-Fonts-JP/main/Cabin/Cabin-SemiboldItalic-JP.ttf",
+        "NotoSans-Bold": "https://raw.githubusercontent.com/kotopiro/Revenge-Fonts-JP/main/Cabin/Cabin-Bold-JP.ttf",
+        "NotoSans-ExtraBold": "https://raw.githubusercontent.com/kotopiro/Revenge-Fonts-JP/main/Cabin/Cabin-ExtraBold-JP.ttf",
+        "NotoSans-Medium": "https://raw.githubusercontent.com/kotopiro/Revenge-Fonts-JP/main/Cabin/Cabin-Medium-JP.ttf",
+        "NotoSans-Normal": "https://raw.githubusercontent.com/kotopiro/Revenge-Fonts-JP/main/Cabin/Cabin-Normal-JP.ttf",
+        "NotoSans-NormalItalic": "https://raw.githubusercontent.com/kotopiro/Revenge-Fonts-JP/main/Cabin/Cabin-NormalItalic-JP.ttf",
+        "NotoSans-Semibold": "https://raw.githubusercontent.com/kotopiro/Revenge-Fonts-JP/main/Cabin/Cabin-Semibold-JP.ttf",
+        "ggmono-Normal": "https://raw.githubusercontent.com/kotopiro/Revenge-Fonts-JP/main/Cabin/Cabin-Normal-JP.ttf"
+    }
+}
