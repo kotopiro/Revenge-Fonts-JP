@@ -1,19 +1,11 @@
 {
-	"format": 1,
-	"id": "com.kurakura.startupsound",
-	"name": "Startup Sound",
-	"description": "Discord起動時に指定した曲を自動再生するプラグイン。URLやファイルパスで音声を指定できます。",
-	"author": "kurakura",
-	"version": "1.0.0",
-	"dependencies": {
-		"revenge.api": {
-			"version": ">=1 <2"
-		},
-		"discord": {
-			"version": "*"
-		}
-	},
-	"dist": {
-		"script": "index.js"
-	}
+  "name": "Startup Sound",
+  "description": "Discord起動時に指定した曲を自動再生するプラグイン。",
+  "authors": [
+    {
+      "name": "majinai",
+      "id": "1272012685520928773"
+    }
+  ],
+  "main": "index.js"
 }
