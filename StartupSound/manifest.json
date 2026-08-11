@@ -1,11 +1,1 @@
-{
-  "name": "Startup Sound",
-  "description": "Discord起動時に指定した曲を自動再生するプラグイン。",
-  "authors": [
-    {
-      "name": "majinai",
-      "id": "1272012685520928773"
-    }
-  ],
-  "main": "index.js"
-}
+{"name":"Startup Sound","description":"A plugin that plays a custom audio file once when Discord starts up","authors":[{"name":"majinai","id":"1272012685520928773"}],"main":"index.js","hash":"d3c705e1e1e2520d72914a2b9567bf047c5ce381655b203ae28326abfcfb7b26"}
